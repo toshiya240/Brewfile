@@ -25,6 +25,7 @@ install ricty
 # Other Homebrew packages
 install autoconf
 install bison
+install cairo
 install cloog
 install cmake
 install fontconfig
@@ -41,6 +42,7 @@ install gmp
 install go
 install gobject-introspection
 install gsl
+install harfbuzz
 install hub
 install icu4c
 install imagemagick
@@ -59,6 +61,7 @@ install mercurial
 install mpfr
 install node
 install openssl
+install pango
 install pcre
 install pixman
 install pkg-config
@@ -73,6 +76,7 @@ install tig
 install tmux
 install tree
 install wget
+install xz
 install zsh
 
 # App Store applications
