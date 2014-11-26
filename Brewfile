@@ -24,6 +24,7 @@ install ricty
 
 # Other Homebrew packages
 install autoconf
+install automake
 install bison
 install cairo
 install cloog
