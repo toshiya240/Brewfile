@@ -29,6 +29,7 @@ install bison
 install cairo
 install cloog
 install cmake
+install czmq
 install fontconfig
 install fontforge
 install freetype
@@ -60,6 +61,7 @@ install libtool
 install little-cms2
 install mercurial
 install mpfr
+install mysql
 install node
 install openssl
 install pango
@@ -78,11 +80,11 @@ install tmux
 install tree
 install wget
 install xz
+install zeromq
 install zsh
 
 # App Store applications
 appstore 1Password
-appstore ATOKPad
 appstore Byword
 appstore Clean
 appstore Dash
