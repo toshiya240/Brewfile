@@ -1,30 +1,32 @@
 
 # tap repositories and their packages
 
-## homebrew/dupes
+tap caskroom/cask
+brew brew-cask
+cask appcleaner
+cask github-desktop
+cask karabiner
+cask onyx
+cask virtualbox-extension-pack
+cask virtualbox
+cask vlc
+
+tap caskroom/cask
+
 tap homebrew/dupes
 
-## homebrew/science
 tap homebrew/science
 
-## homebrew/versions
 tap homebrew/versions
 
-## peco/peco
 tap peco/peco
 brew peco
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
-## sanemat/font
 tap sanemat/font
 brew ricty
-
-## caskroom/cask
-tap caskroom/cask
-brew brew-cask
 
 # Other Homebrew packages
 brew autoconf
@@ -86,13 +88,6 @@ brew wget
 brew xz
 brew zeromq
 brew zsh
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask ==> We need to make Caskroom for the first time at /opt/homebrew-cask/Caskroom
-#cask ==> We'll set permissions properly so we won't need sudo in the future
-#cask Warning: nothing to list
 
 # App Store applications
 appstore 1Password
