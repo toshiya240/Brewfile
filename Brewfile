@@ -44,6 +44,7 @@ brew gdbm
 brew gettext
 brew ghc
 brew ghostscript
+brew ghq
 brew git
 brew glib
 brew gmp
@@ -51,6 +52,7 @@ brew go
 brew gobject-introspection
 brew gsl
 brew harfbuzz
+brew heroku
 brew hub
 brew icu4c
 brew imagemagick
@@ -78,6 +80,7 @@ brew python
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
+brew ruby
 brew ruby-build
 brew sqlite
 brew tbb
