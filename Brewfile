@@ -20,7 +20,6 @@ tap homebrew/science
 tap homebrew/versions
 
 tap peco/peco
-brew peco
 
 tap rcmdnk/file
 brew brew-file
@@ -32,6 +31,7 @@ brew ricty
 brew autoconf
 brew automake
 brew bison
+brew boost
 brew cairo
 brew cloog
 brew cmake
@@ -74,6 +74,7 @@ brew node
 brew openssl
 brew pango
 brew pcre
+brew peco
 brew pixman
 brew pkg-config
 brew python
@@ -84,6 +85,7 @@ brew ruby
 brew ruby-build
 brew sqlite
 brew tbb
+brew the_silver_searcher
 brew tig
 brew tmux
 brew tree
