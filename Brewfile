@@ -33,6 +33,7 @@ brew automake
 brew bison
 brew boost
 brew cairo
+brew cgdb
 brew cloog
 brew cmake
 brew czmq
@@ -40,6 +41,7 @@ brew fontconfig
 brew fontforge
 brew freetype
 brew gcc
+brew gdb
 brew gdbm
 brew gettext
 brew ghc
