@@ -36,6 +36,7 @@ brew cairo
 brew cgdb
 brew cloog
 brew cmake
+brew cxxtest
 brew czmq
 brew fontconfig
 brew fontforge
