@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap caskroom/cask
-brew brew-cask
 cask appcleaner
 cask github-desktop
 cask karabiner
@@ -32,6 +31,7 @@ brew autoconf
 brew automake
 brew bison
 brew boost
+brew brew-cask
 brew cairo
 brew cgdb
 brew cloog
@@ -63,6 +63,7 @@ brew isl
 brew jbig2dec
 brew jpeg
 brew jq
+brew lesspipe
 brew libevent
 brew libffi
 brew libmpc
