@@ -2,9 +2,9 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask alfred
 cask appcleaner
 cask github-desktop
-cask karabiner
 cask onyx
 cask shiftit
 cask virtualbox-extension-pack
