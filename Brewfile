@@ -90,8 +90,6 @@ tap homebrew/science
 
 tap homebrew/versions
 
-tap peco/peco
-
 tap rcmdnk/file
 brew brew-file
 
