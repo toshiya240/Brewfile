@@ -12,6 +12,7 @@ cask virtualbox
 cask vlc
 
 tap homebrew/core
+brew arpack
 brew autoconf
 brew automake
 brew bison
@@ -20,12 +21,18 @@ brew cairo
 brew cgdb
 brew cloog
 brew cmake
+brew curl
 brew cxxtest
 brew czmq
+brew epstool
+brew fftw
+brew flac
+brew fltk
 brew fontconfig
 brew fontforge
 brew freetype
 brew gcc
+brew gd
 brew gdb
 brew gdbm
 brew gettext
@@ -33,12 +40,17 @@ brew ghc
 brew ghostscript
 brew ghq
 brew git
+brew gl2ps
 brew glib
+brew glpk
 brew gmp
+brew gnuplot
 brew go
 brew gobject-introspection
+brew graphicsmagick
 brew gsl
 brew harfbuzz
+brew hdf5
 brew heroku
 brew hub
 brew icu4c
@@ -51,16 +63,22 @@ brew lesspipe
 brew libevent
 brew libffi
 brew libmpc
+brew libogg
 brew libpng
+brew libsndfile
 brew libsodium
 brew libtiff
 brew libtool
+brew libvorbis
 brew little-cms2
+brew lua
 brew makedepend
 brew mas
 brew mercurial
+brew metis
 brew mpfr
-brew node
+brew node@6
+brew octave
 brew oniguruma
 brew openssl
 brew pango
@@ -68,23 +86,36 @@ brew pcre
 brew peco
 brew pixman
 brew pkg-config
+brew plotutils
+brew portaudio
+brew pstoedit
 brew python
+brew qhull
+brew qrupdate
+brew qt@5.7
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew sqlite
+brew suite-sparse
+brew szip
+brew tbb
 brew the_silver_searcher
 brew tig
 brew tmux
 brew tree
 brew utf8proc
+brew veclibfort
+brew webp
 brew wget
 brew xz
 brew zeromq
 brew zsh
 
 tap homebrew/dupes
+
+tap homebrew/science
 
 tap homebrew/science
 
@@ -95,6 +126,9 @@ brew brew-file
 
 tap sanemat/font
 brew ricty
+
+# Other Homebrew packages
+brew transfig
 
 # App Store applications
 appstore 443987910 1Password (6.5.2)
