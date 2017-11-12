@@ -1,16 +1,6 @@
 
 # tap repositories and their packages
 
-tap caskroom/cask
-cask alfred
-cask appcleaner
-cask github-desktop
-cask onyx
-cask shiftit
-cask virtualbox-extension-pack
-cask virtualbox
-cask vlc
-
 tap homebrew/core
 brew arpack
 brew autoconf
@@ -74,7 +64,6 @@ brew little-cms2
 brew lua
 brew makedepend
 brew mas
-brew mercurial
 brew metis
 brew mpfr
 brew node@6
@@ -121,6 +110,15 @@ tap homebrew/science
 
 tap homebrew/versions
 
+tap caskroom/cask
+cask virtualbox
+cask vlc
+cask appcleaner
+cask virtualbox-extension-pack
+cask onyx
+cask alfred
+cask shiftit
+
 tap rcmdnk/file
 brew brew-file
 
@@ -129,6 +127,9 @@ brew ricty
 
 # Other Homebrew packages
 brew transfig
+
+# Cask applications
+cask github-desktop
 
 # App Store applications
 appstore 443987910 1Password (6.5.2)
@@ -142,9 +143,10 @@ appstore 412448059 ForkLift (2.6.6)
 appstore 408980954 GarageBand (6.0.5)
 appstore 467939042 Growl (2.1.3)
 appstore 635733663 Hummings (1.1.6)
-appstore 404167149 IP Scanner (3.51)
 appstore 507135296 IconKit (8.0.6)
+appstore 408981434 iMovie (10.1.3)
 appstore 513610341 Integrity (6.8.4)
+appstore 404167149 IP Scanner (3.51)
 appstore 409183694 Keynote (6.6.2)
 appstore 448925439 Marked (1.4.3)
 appstore 784801555 Microsoft OneNote (15.28)
@@ -171,4 +173,3 @@ appstore 410628904 Wunderlist (3.4.5)
 appstore 497799835 Xcode (8.1)
 appstore 406504852 Yep (3.8.0)
 appstore 428834068 YoruFukurou (2.85)
-appstore 408981434 iMovie (10.1.3)
