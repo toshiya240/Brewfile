@@ -114,6 +114,7 @@ tap caskroom/cask
 cask virtualbox
 cask vlc
 cask appcleaner
+cask db-browser-for-sqlite
 cask virtualbox-extension-pack
 cask onyx
 cask alfred
