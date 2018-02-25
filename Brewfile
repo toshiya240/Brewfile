@@ -22,6 +22,7 @@ brew fltk
 brew fontconfig
 brew fontforge
 brew freetype
+brew fzf
 brew gcc
 brew gd
 brew gdb
