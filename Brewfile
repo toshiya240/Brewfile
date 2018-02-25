@@ -16,6 +16,7 @@ brew cxxtest
 brew czmq
 brew epstool
 brew fftw
+brew fish
 brew flac
 brew fltk
 brew fontconfig
@@ -70,8 +71,10 @@ brew node@6
 brew octave
 brew oniguruma
 brew openssl
+brew p7zip
 brew pango
 brew pcre
+brew pcre2
 brew peco
 brew pixman
 brew pkg-config
@@ -81,7 +84,6 @@ brew pstoedit
 brew python
 brew qhull
 brew qrupdate
-brew qt@5.7
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
@@ -127,6 +129,7 @@ tap sanemat/font
 brew ricty
 
 # Other Homebrew packages
+brew qt@5.7
 brew transfig
 
 # Cask applications
