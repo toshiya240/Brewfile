@@ -9,6 +9,7 @@ brew bison
 brew boost
 brew cairo
 brew cgdb
+brew clang-format
 brew cloog
 brew cmake
 brew curl
