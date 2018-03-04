@@ -45,6 +45,7 @@ brew gsl
 brew harfbuzz
 brew hdf5
 brew heroku
+brew htop
 brew hub
 brew icu4c
 brew imagemagick
