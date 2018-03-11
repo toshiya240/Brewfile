@@ -121,12 +121,6 @@ brew xz
 brew zeromq
 brew zsh
 
-tap homebrew/dupes
-
-tap homebrew/science
-
-tap homebrew/versions
-
 tap caskroom/cask
 cask virtualbox
 cask vlc
