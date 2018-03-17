@@ -10,11 +10,10 @@ brew boost
 brew cairo
 brew cgdb
 brew clang-format
-brew cloog
 brew cmake
 brew curl
 brew cxxtest
-brew czmq
+brew dos2unix
 brew epstool
 brew fftw
 brew fig2dev
@@ -24,6 +23,7 @@ brew fltk
 brew fontconfig
 brew fontforge
 brew freetype
+brew fribidi
 brew fzf
 brew gawk
 brew gcc
@@ -31,7 +31,6 @@ brew gd
 brew gdb
 brew gdbm
 brew gettext
-brew ghc
 brew ghostscript
 brew ghq
 brew git
@@ -74,6 +73,7 @@ brew libvorbis
 brew libyaml
 brew little-cms2
 brew lua
+brew make
 brew makedepend
 brew mas
 brew metis
@@ -83,7 +83,6 @@ brew node@6
 brew octave
 brew oniguruma
 brew openssl
-brew openssl@1.1
 brew p7zip
 brew pango
 brew pcre
@@ -112,42 +111,32 @@ brew the_silver_searcher
 brew tig
 brew tmux
 brew tree
-brew utf8proc
 brew veclibfort
-brew vim --with-lua --with-override-system-vi
+brew vim --with-override-system-vi --with-lua
 brew webp
 brew wget
 brew xz
-brew zeromq
 brew zsh
 
 tap caskroom/cask
-cask virtualbox
-cask vlc
+cask alfred
 cask appcleaner
 cask db-browser-for-sqlite
-cask virtualbox-extension-pack
 cask onyx
-cask xquartz
-cask alfred
 cask shiftit
+cask virtualbox
+cask virtualbox-extension-pack
+cask vlc
+cask xquartz
 
 tap rcmdnk/file
 brew brew-file
 
-tap sanemat/font
-brew ricty
-
-# Other Homebrew packages
-brew gmp@4
-brew isl@0.12
-brew qt@5.7
-
-# Cask applications
+# Other Cask applications
 cask github-desktop
 
 # App Store applications
-appstore 443987910 1Password (6.8.7)
+appstore 443987910 1Password (6.8.8)
 appstore 420212497 Byword (2.8.2)
 appstore 418412301 Clean (1.0.3)
 appstore 1024640650 CotEditor (3.3.5)
@@ -160,12 +149,12 @@ appstore 635733663 Hummings (2.0.0)
 appstore 507135296 IconKit (9.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
-appstore 513610341 Integrity (6.12.1)
+appstore 513610341 Integrity (8.0.5)
 appstore 404167149 IP Scanner (3.65)
 appstore 409183694 Keynote (7.3.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 448925439 Marked (1.4.3)
-appstore 784801555 Microsoft OneNote (16.10)
+appstore 784801555 Microsoft OneNote (16.11)
 appstore 540348655 Monosnap (3.4.10)
 appstore 409203825 Numbers (4.3.1)
 appstore 402835630 OmniFocus (1.10.6)
